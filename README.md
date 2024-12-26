@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a second-year BTech. ICT student
-Aspiring AI/ML enthusiast
+- 🔭 I’m currently working as an intern at NativeSoftTech.
+- 🌱 I am actively honing my DSA skills on various platforms with confidence and determination.
+
