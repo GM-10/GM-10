@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as an intern at NativeSoftTech.</br>
+- 🔭 I am an ex-intern at NativeSoftTech.</br>
 - 🌱 I am actively honing my DSA skills on various platforms with confidence and determination.</br></br>
  [![Grishma's GitHub stats](https://github-readme-stats.vercel.app/api?username=GM-10)](https://github.com/GM-10/github-readme-stats)
 
