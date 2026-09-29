@@ -16,79 +16,43 @@ Computer Vision, and Software Engineering**.
 - 🤖 Amazon ML Challenge 2025 — Rank ~3,200 / 82,787 teams
 - 📊 LeetCode — 1702 Rating | Top 13.7% | 250+ problems
 
----
+## 🚀 Featured Projects
 
-## 🚀 Projects
+### 🅿️ [ParkSense](https://github.com/GM-10/ParkSense)
+**Illegal Parking Hotspot Detection & Traffic Intelligence**
+- Detects illegal parking hotspots from GPS-tagged incident data using HDBSCAN and Haversine distance.
+- Combines spatial clustering with economic-impact analysis and resource-constrained enforcement dispatch.
+- 🏆 Advanced to Round 2 of Flipkart GRiDlock 2.0 among 1.6K registrations.
 
-### 🅿️ ParkSense — Flipkart GRiDlock 2.0
+### 💰 [Financial Audit & Compliance Engine](https://github.com/GM-10/financial-audit-and-compliance-engine)
+**LLM-powered Vendor Compliance & Audit System**
+- ReAct-based agent cross-referencing transactions, contracts, and delivery logs.
+- Uses LangChain, FastAPI, SQLite, Pydantic, and React.
+- Generates structured discrepancy reports for human review.
 
-Illegal parking hotspot detection and traffic intelligence platform.
+### 📄 [Document Chatbot](https://github.com/GM-10/documentchatbot)
+**Research Paper Q&A using RAG**
+- End-to-end Retrieval-Augmented Generation pipeline for querying research documents.
+- Uses LangChain and ChromaDB for contextual retrieval and grounded responses.
+- Built as part of the IBM AI Engineering Professional Certificate capstone.
 
-**Tech:** Python · HDBSCAN · FastAPI · React · Geospatial ML
+### 🛒 [Amazon ML Challenge 2025](https://github.com/GM-10/AmazonMLChallenge2025)
+**Multimodal Product Price Prediction**
+- Fuses text and image embeddings using Sentence Transformers and CLIP.
+- Uses XGBoost for multimodal price prediction.
+- 🏅 Ranked ~3,200 among 82K+ registered teams.
 
-- Detects illegal parking hotspots from GPS-tagged violation data
-- Uses HDBSCAN + Haversine distance for spatial clustering
-- Includes economic-impact analysis and dispatch optimization
-- Advanced to **Round 2 among 1.6K registrations**
+### 🛡️ [AttackSimulator](https://github.com/TAPAN-2835/AttackSimulator_AlphaCore)
+**Cybersecurity Attack Simulation Platform**
+- Simulates controlled phishing and social-engineering attacks across Email, SMS, and WhatsApp.
+- Includes real-time monitoring, per-user risk scoring, JWT authentication, and LLM-generated phishing content.
+- 🏆 Winning project at Breach 2026.
 
-🔗 [Repository](https://github.com/GM-10/Parksense)
-
----
-
-### 💰 Financial Audit & Compliance Agent
-
-LLM-powered agent for automated vendor compliance auditing.
-
-**Tech:** Python · LangChain · FastAPI · React · SQLite · Pydantic
-
-- Cross-references transactions, contracts and delivery logs
-- ReAct-based tool use with structured Pydantic outputs
-- Validated across **1,000+ transactions and 50+ contracts**
-
----
-
-### 📄 Research Paper Q&A using RAG
-
-Retrieval-Augmented Generation system for question answering over research papers.
-
-**Tech:** Python · LangChain · RAG · ChromaDB
-
-- Document processing and semantic retrieval
-- Vector-based context retrieval with ChromaDB
-- LLM-generated answers grounded in retrieved paper content
-
----
-
-### 🌱 Soil Contour Extraction using YOLO
-
-Computer vision pipeline for extracting soil contours from
-desiccation-experiment imagery.
-
-**Tech:** Python · YOLO · Computer Vision
-
-- YOLO-based segmentation of soil contours
-- Angle- and time-based quantitative analysis
-- Analysis contributed to a research manuscript submitted to
-  *Civil Engineering Journal (Q2)*
-
----
-
-### 🛒 Amazon ML Challenge 2025
-
-Multimodal product pricing prediction using product text and images.
-
-**Tech:** Python · CLIP · SentenceTransformers · XGBoost
-
-- Fused **896-dimensional multimodal representations**
-- 384-dimensional text embeddings + 512-dimensional image embeddings
-- Achieved **54.894 SMAPE**
-- Ranked approximately **3,200 / 82,787 teams**
-
-🔗 [Repository](https://github.com/GM-10/AmazonMLChallenge2025)
-
----
-
-## 🏆 Hackathons
+### 🤖 [Tic-Tech-Toe](https://github.com/peritashukla/Tic-Tech-Toe)
+**Agentic MCP Gateway**
+- Built integrations across GitHub, Jira, Slack, and Google Sheets.
+- Implements OAuth, context propagation, DAG execution, retries, and parallel workflows.
+- 🥉 Secured 3rd place among 1000+ teams.## 🏆 Hackathons
 
 ### 🥇 Breach 2026 — Winner
 **AttackSimulator**
