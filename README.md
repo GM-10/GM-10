@@ -19,6 +19,13 @@ Final-year B.Tech ICT student at **Pandit Deendayal Energy University (PDEU)**, 
 | 💻 | **LeetCode**: 1702 rating, top 13.7%, 250+ problems solved |
 | 🎓 | **NPTEL Deep Learning for Computer Vision (IIT Hyderabad)**: top 20% (2,476 / 12,323) |
 
+## 💼 Experience
+
+**Data Science & Machine Learning Intern**, Brainybeam Info-Tech (Remote, May–June 2026)
+- Implemented k-NN, SVM, and Decision Tree from scratch in Python, including kernel methods, distance metrics, and Elbow Method k-selection
+- Built an NSL-KDD intrusion detection pipeline covering preprocessing, normalization, training, and multi-metric evaluation
+- Achieved 57.53% Macro-F1 with k-NN, a 9.58% relative improvement over the Decision Tree baseline (52.50%)
+
 ## 🚀 Featured Projects
 
 ### [ParkSense](https://github.com/GM-10/ParkSense)
@@ -58,23 +65,4 @@ Multimodal product price prediction.
 
 ## 🧠 Tech Stack
 
-**Languages:** Python · C++ · Java · C · SQL
-
-**ML & AI:** PyTorch · TensorFlow · Scikit-Learn · XGBoost · Pandas · NumPy · OpenCV · YOLO · Transformers
-
-**GenAI:** LangChain · MCP · RAG · ChromaDB · BM25 · Pydantic
-
-**Development:** FastAPI · React · Docker · Git · SQLite
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GM-10&show_icons=true&theme=dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GM-10&layout=compact&theme=dark&hide_border=true" height="165"/>
-</p>
-
-## 🌐 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grishma-makwana01/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/GM-10/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grishmamakwana1@gmail.com)
+**Language
