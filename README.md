@@ -65,4 +65,17 @@ Multimodal product price prediction.
 
 ## 🧠 Tech Stack
 
-**Language
+**Languages:** Python · C++ · Java · C · SQL
+
+**ML & AI:** PyTorch · TensorFlow · Scikit-Learn · XGBoost · Pandas · NumPy · OpenCV · YOLO · Transformers
+
+**GenAI:** LangChain · MCP · RAG · ChromaDB · BM25 · Pydantic
+
+**Development:** FastAPI · React · Docker · Git · SQLite
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grishma-makwana01/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/GM-10/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grishmamakwana1@gmail.com)
+![GitHub followers](https://img.shields.io/github/followers/GM-10?style=for-the-badge&logo=github&logoColor=white&color=121011)
